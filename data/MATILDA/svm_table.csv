@@ -1,0 +1,9 @@
+Row,Avg_Perf_all_instances,Std_Perf_all_instances,Probability_of_good,Avg_Perf_selected_instances,Std_Perf_selected_instances,CV_model_accuracy,CV_model_precision,CV_model_recall,BoxConstraint,KernelScale
+fixed_angles_constant,34323.017,47394.475,0.032,33,5.329,96.7,33.3,1.6,0.109,12.665
+interp,6082.428,22217.419,0.001,,,99.9,,0,2.348,0.003
+qibpi,6749.427,25023.466,0.709,4730.084,21160.028,75.8,78,91.9,9.232,1.953
+random,62812.688,48268.844,0.005,,,99.5,,0,2.321,0.003
+three_regular,16989.979,37511.188,0.448,6060.615,23781.087,78.5,73.8,80.4,15.995,6.209
+tqa,2138.589,14257.964,0.111,30.531,11.536,90.1,87.5,12.8,15.958,0.787
+Oracle,27.734,59.506,1,,,,,,,
+Selector,4618.619,20915.896,0.779,4538.9,20742.151,,78.1,60.9,,

@@ -1,0 +1,7 @@
+Row,Area_Good_Normalized,Density_Good_Normalized,Purity_Good,Area_Best_Normalized,Density_Best_Normalized,Purity_Best
+fixed_angles_constant,0,0,0,0,0,0
+interp,0,0,0,0,0,0
+qibpi,0.651,1.287,1,0.638,1.311,1
+random,0,0,0,0,0,0
+three_regular,0.338,1.367,1,0.125,1.101,1
+tqa,0.075,0.12,1,0.075,0.12,1
