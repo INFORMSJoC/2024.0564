@@ -15,6 +15,8 @@ To cite the contents of this repository, please cite both the paper and this rep
 
 https://doi.org/10.1287/ijoc.2024.0564
 
+https://doi.org/10.1287/ijoc.2024.0564.cd
+
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
@@ -23,7 +25,7 @@ Below is the BibTex for citing this snapshot of the repository.
   publisher =     {INFORMS Journal on Computing},
   title =         {{On the Instance Dependence of Parameter Initialization for the Quantum Approximate Optimization Algorithm: Insights via Instance Space Analysis}},
   year =          {2024},
-  doi =           {10.1287/ijoc.2024.0564},
+  doi =           {10.1287/ijoc.2024.0564.cd},
   url =           {https://github.com/INFORMSJoC/2024.0564},
   note =          {Available for download at https://github.com/INFORMSJoC/2024.0564},
 }  
